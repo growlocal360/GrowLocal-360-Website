@@ -89,7 +89,7 @@ export default function JobSnaps() {
                     <img
                         src="/images/Job-Snaps-Checkins-Grow-Local-360-White.svg"
                         alt="Job Snaps and Check-ins workflow — upload photos, generate content, publish to website and Google Business Profile"
-                        className="w-full max-w-4xl h-auto"
+                        className="w-[65%] md:w-[35%] h-auto"
                     />
                 </div>
 
